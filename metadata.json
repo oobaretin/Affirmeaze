@@ -1,0 +1,8 @@
+{
+  "name": "AffirmEaze - Calm Reel Creator",
+  "description": "A beautiful, minimalist web application for creating professional Instagram Reels with calming affirmations and wellness aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
